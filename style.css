@@ -21,6 +21,7 @@
     border-radius: 50%;
     top: 50%;
     left: 50%;
+    z-index: 100;
 }  
 #hours, #minutes, #seconds{
     transform-origin: bottom;
